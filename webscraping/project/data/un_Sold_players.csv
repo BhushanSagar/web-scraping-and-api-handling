@@ -1,0 +1,396 @@
+id,PLAYER,BASE PRICE,Capped/Uncapped
+0,David Warner  ,"2,00,00,000",Capped
+1,Jonny Bairstow   ,"2,00,00,000",Capped
+2,Kane Williamson  ,"2,00,00,000",Capped
+3,Daryl Mitchell  ,"2,00,00,000",Capped
+4,Shardul Thakur,"2,00,00,000",Capped
+5,Mujeeb Ur Rahman  ,"2,00,00,000",Capped
+6,Adil Rashid   ,"2,00,00,000",Capped
+7,Finn Allen  ,"2,00,00,000",Capped
+8,Ben Duckett  ,"2,00,00,000",Capped
+9,Rilee Rossouw  ,"2,00,00,000",Capped
+10,James Vince  ,"2,00,00,000",Capped
+11,Tom Banton  ,"2,00,00,000",Capped
+12,Mustafizur Rahman  ,"2,00,00,000",Capped
+13,Naveen  Ul Haq  ,"2,00,00,000",Capped
+14,Umesh Yadav,"2,00,00,000",Capped
+15,Tabraiz Shamsi  ,"2,00,00,000",Capped
+16,Evin Lewis  ,"2,00,00,000",Capped
+17,Steve Smith  ,"2,00,00,000",Capped
+18,Gus Atkinson  ,"2,00,00,000",Capped
+19,Tom Curran  ,"2,00,00,000",Capped
+20,Matt Henry  ,"2,00,00,000",Capped
+21,Alzarri Joseph  ,"2,00,00,000",Capped
+22,Rassie Van Der Dussen  ,"2,00,00,000",Capped
+23,Sean Abbott  ,"2,00,00,000",Capped
+24,Adam Milne  ,"2,00,00,000",Capped
+25,Jason Holder  ,"2,00,00,000",Capped
+26,Chris Jordan  ,"2,00,00,000",Capped
+27,Tymal Mills  ,"2,00,00,000",Capped
+28,Akeal Hosein  ,"1,50,00,000",Capped
+29,Sam Billings   ,"1,50,00,000",Capped
+30,Mark Chapman  ,"1,50,00,000",Capped
+31,Mohammad Nabi  ,"1,50,00,000",Capped
+32,Tom Latham  ,"1,50,00,000",Capped
+33,Kyle Mayers  ,"1,50,00,000",Capped
+34,Jason Behrendorff  ,"1,50,00,000",Capped
+35,Jhye Richardson  ,"1,50,00,000",Capped
+36,Michael Bracewell  ,"1,50,00,000",Capped
+37,William O'Rourke  ,"1,50,00,000",Capped
+38,Jimmy Neesham  ,"1,50,00,000",Capped
+39,Daniel Sams  ,"1,50,00,000",Capped
+40,Riley Meredith  ,"1,50,00,000",Capped
+41,Daniel Worrall  ,"1,50,00,000",Capped
+42,Matthew Potts  ,"1,50,00,000",Capped
+43,Tim Southee  ,"1,50,00,000",Capped
+44,John Turner  ,"1,50,00,000",Capped
+45,Kyle Jamieson  ,"1,50,00,000",Capped
+46,Shai Hope  ,"1,25,00,000",Capped
+47,Jordan Cox  ,"1,25,00,000",Capped
+48,Tim Seifert  ,"1,25,00,000",Capped
+49,Nandre Burger  ,"1,25,00,000",Capped
+50,Sikandar Raza  ,"1,25,00,000",Capped
+51,Will  Young  ,"1,25,00,000",Capped
+52,Obed McCoy  ,"1,25,00,000",Capped
+53,Lance Morris  ,"1,25,00,000",Capped
+54,Ashton Agar  ,"1,25,00,000",Capped
+55,James Anderson  ,"1,25,00,000",Capped
+56,Dominic Drakes  ,"1,25,00,000",Capped
+57,Matthew Forde  ,"1,25,00,000",Capped
+58,Keemo Paul  ,"1,25,00,000",Capped
+59,Mayank Agarawal,"1,00,00,000",Capped
+60,Alex Carey  ,"1,00,00,000",Capped
+61,Ashton Turner  ,"1,00,00,000",Capped
+62,Krishnappa Gowtham,"1,00,00,000",Capped
+63,Gulbadin Naib  ,"1,00,00,000",Capped
+64,Taskin Ahmed  ,"1,00,00,000",Capped
+65,Chris Green  ,"1,00,00,000",Capped
+66,Shakib Al Hasan  ,"1,00,00,000",Capped
+67,Mehidy Hasan Miraz  ,"1,00,00,000",Capped
+68,Benjamin Sears  ,"1,00,00,000",Capped
+69,Dan Lawrence  ,"1,00,00,000",Capped
+70,Nathan Smith  ,"1,00,00,000",Capped
+71,David Payne  ,"1,00,00,000",Capped
+72,Wayne Parnell  ,"1,00,00,000",Capped
+73,Waqar Salamkheil  ,"75,00,000",Capped
+74,Prithvi Shaw,"75,00,000",Capped
+75,K.S Bharat,"75,00,000",Capped
+76,Keshav Maharaj  ,"75,00,000",Capped
+77,Vijayakanth Viyaskanth  ,"75,00,000",Capped
+78,Dewald Brevis  ,"75,00,000",Capped
+79,Ben McDermott  ,"75,00,000",Capped
+80,Kusal Mendis  ,"75,00,000",Capped
+81,Kusal Perera  ,"75,00,000",Capped
+82,Josh Philippe  ,"75,00,000",Capped
+83,Rishad Hossain  ,"75,00,000",Capped
+84,Zahir Khan Pakten  ,"75,00,000",Capped
+85,Nqabayomzi Peter  ,"75,00,000",Capped
+86,Tanveer Sangha  ,"75,00,000",Capped
+87,Jeffery Vandersay  ,"75,00,000",Capped
+88,Sediqullah Atal  ,"75,00,000",Capped
+89,Brandon King  ,"75,00,000",Capped
+90,Pathum Nissanka  ,"75,00,000",Capped
+91,Bhanuka Rajapaksa  ,"75,00,000",Capped
+92,Johnson Charles  ,"75,00,000",Capped
+93,Litton Das  ,"75,00,000",Capped
+94,Andre Fletcher  ,"75,00,000",Capped
+95,Ollie Pope  ,"75,00,000",Capped
+96,Kyle Verreynne  ,"75,00,000",Capped
+97,Richard Gleeson  ,"75,00,000",Capped
+98,Luke Wood  ,"75,00,000",Capped
+99,Towhid Hridoy  ,"75,00,000",Capped
+100,Mikyle Louis  ,"75,00,000",Capped
+101,Harry Tector  ,"75,00,000",Capped
+102,Najibullah Zadran  ,"75,00,000",Capped
+103,Ibrahim Zadran  ,"75,00,000",Capped
+104,Sarfaraz Khan,"75,00,000",Capped
+105,Matthew Short  ,"75,00,000",Capped
+106,Josh Little  ,"75,00,000",Capped
+107,Shivam Mavi,"75,00,000",Capped
+108,Navdeep Saini,"75,00,000",Capped
+109,Qais Ahmad  ,"75,00,000",Capped
+110,Charith Asalanka  ,"75,00,000",Capped
+111,Gudakesh Motie  ,"75,00,000",Capped
+112,Daniel Mousley  ,"75,00,000",Capped
+113,Dunith Wellalage  ,"75,00,000",Capped
+114,Ottneil Baartman  ,"75,00,000",Capped
+115,Dilshan Madushanka  ,"75,00,000",Capped
+116,Chetan Sakariya,"75,00,000",Capped
+117,Sandeep Warrier,"75,00,000",Capped
+118,Cooper Connolly  ,"75,00,000",Capped
+119,Dushan Hemantha  ,"75,00,000",Capped
+120,William Sutherland  ,"75,00,000",Capped
+121,Ben Dwarshuis  ,"75,00,000",Capped
+122,Olly Stone  ,"75,00,000",Capped
+123,Zak Foulkes  ,"75,00,000",Capped
+124,Wiaan Mulder  ,"75,00,000",Capped
+125,Dwaine Pretorius  ,"75,00,000",Capped
+126,Dasun Shanaka  ,"75,00,000",Capped
+127,Shoriful Islam  ,"75,00,000",Capped
+128,Blessing Muzarabani  ,"75,00,000",Capped
+129,Tanzim Hasan Sakib  ,"75,00,000",Capped
+130,Roston Chase  ,"75,00,000",Capped
+131,Junior Dala  ,"75,00,000",Capped
+132,Mahedi Hasan  ,"75,00,000",Capped
+133,Nangeyalia Kharote  ,"75,00,000",Capped
+134,Hasan Mahmud  ,"75,00,000",Capped
+135,Nahid Rana  ,"75,00,000",Capped
+136,Alick Athanaze  ,"75,00,000",Capped
+137,Hilton Cartwright  ,"75,00,000",Capped
+138,Daryn Dupavillon  ,"75,00,000",Capped
+139,Patrick Kruger  ,"75,00,000",Capped
+140,Lahiru Kumara  ,"75,00,000",Capped
+141,Michael Neser  ,"75,00,000",Capped
+142,Richard Ngarava  ,"75,00,000",Capped
+143,Odean Smith  ,"75,00,000",Capped
+144,Andrew Tye  ,"75,00,000",Capped
+145,Piyush Chawla,"50,00,000",Uncapped
+146,Tom Kohler-Cadmore  ,"50,00,000",Uncapped
+147,Leus Du Plooy  ,"50,00,000",Uncapped
+148,Michael Pepper  ,"50,00,000",Uncapped
+149,Ben Howell  ,"50,00,000",Uncapped
+150,Kartik Tyagi,"40,00,000",Uncapped
+151,Shoun  Roger ,"40,00,000",Uncapped
+152,Siddharth Kaul,"40,00,000",Uncapped
+153,Ajay Ahlawat,"40,00,000",Uncapped
+154,Jalaj Saxena,"40,00,000",Uncapped
+155,Yash Dhull,"30,00,000",Uncapped
+156,Anmolpreet Singh,"30,00,000",Uncapped
+157,Utkarsh Singh,"30,00,000",Uncapped
+158,Upendra Singh Yadav,"30,00,000",Uncapped
+159,Ricky Bhui,"30,00,000",Uncapped
+160,Aarya Desai,"30,00,000",Uncapped
+161,Madhav Kaushik,"30,00,000",Uncapped
+162,Pukhraj Mann,"30,00,000",Uncapped
+163,Mayank Dagar,"30,00,000",Uncapped
+164,Suyash Prabhudessai,"30,00,000",Uncapped
+165,Sanvir  Singh,"30,00,000",Uncapped
+166,Avanish Aravelly,"30,00,000",Uncapped
+167,Saurav Chauhan,"30,00,000",Uncapped
+168,Harvik  Desai,"30,00,000",Uncapped
+169,B.R Sharath,"30,00,000",Uncapped
+170,Sakib Hussain,"30,00,000",Uncapped
+171,Vidwath Kaverappa,"30,00,000",Uncapped
+172,Rajan Kumar,"30,00,000",Uncapped
+173,Sushant Mishra,"30,00,000",Uncapped
+174,Prince Choudhary,"30,00,000",Uncapped
+175,Himanshu Sharma,"30,00,000",Uncapped
+176,Prashant Solanki,"30,00,000",Uncapped
+177,Jhathavedh Subramanyan,"30,00,000",Uncapped
+178,Priyam  Garg,"30,00,000",Uncapped
+179,Smaran Ravichandran,"30,00,000",Uncapped
+180,Shashwat Rawat,"30,00,000",Uncapped
+181,Avneesh Sudha,"30,00,000",Uncapped
+182,Apoorv Wankhade,"30,00,000",Uncapped
+183,Rishi Dhawan,"30,00,000",Uncapped
+184,Tanush Kotian,"30,00,000",Uncapped
+185,Shams Mulani,"30,00,000",Uncapped
+186,Shivam Singh,"30,00,000",Uncapped
+187,Lalit Yadav,"30,00,000",Uncapped
+188,Mohammed Azharuddeen,"30,00,000",Uncapped
+189,L.R Chethan,"30,00,000",Uncapped
+190,Aryaman Singh Dhaliwal,"30,00,000",Uncapped
+191,Urvil Patel,"30,00,000",Uncapped
+192,Sanskar Rawat,"30,00,000",Uncapped
+193,Bipin  Saurabh,"30,00,000",Uncapped
+194,Tanay Thyagarajann,"30,00,000",Uncapped
+195,Money Grewal,"30,00,000",Uncapped
+196,Ishan Porel,"30,00,000",Uncapped
+197,Abhilash Shetty,"30,00,000",Uncapped
+198,Basil Thampi,"30,00,000",Uncapped
+199,Murugan Ashwin,"30,00,000",Uncapped
+200,Shreyas Chavan,"30,00,000",Uncapped
+201,Chintal Gandhi,"30,00,000",Uncapped
+202,Raghav Goyal,"30,00,000",Uncapped
+203,Jagadeesha Suchith,"30,00,000",Uncapped
+204,Roshan Waghsare,"30,00,000",Uncapped
+205,Bailapudi Yeswanth,"30,00,000",Uncapped
+206,Sachin  Dhas ,"30,00,000",Uncapped
+207,Ashwin Hebbar,"30,00,000",Uncapped
+208,Rohan  Kunnummal,"30,00,000",Uncapped
+209,Ayush  Pandey,"30,00,000",Uncapped
+210,Akshat Raghuwanshi,"30,00,000",Uncapped
+211,Virat  Singh,"30,00,000",Uncapped
+212,Prerak Mankad,"30,00,000",Uncapped
+213,Vicky Ostwal,"30,00,000",Uncapped
+214,Shivalik Sharma,"30,00,000",Uncapped
+215,Salil Arora,"30,00,000",Uncapped
+216,Dinesh  Bana ,"30,00,000",Uncapped
+217,Ajitesh Guruswamy,"30,00,000",Uncapped
+218,Narayan Jagadeesan,"30,00,000",Uncapped
+219,Vishnu Solanki,"30,00,000",Uncapped
+220,K.M Asif,"30,00,000",Uncapped
+221,Akhil Chaudhary,"30,00,000",Uncapped
+222,Himanshu Chauhan,"30,00,000",Uncapped
+223,Arpit Guleria,"30,00,000",Uncapped
+224,Nishanth Saranu,"30,00,000",Uncapped
+225,Kuldip Yadav,"30,00,000",Uncapped
+226,Prithviraj Yarra,"30,00,000",Uncapped
+227,Shubham Agrawal,"30,00,000",Uncapped
+228,Jass Inder Baidwan,"30,00,000",Uncapped
+229,Jasmer  Dhankhar,"30,00,000",Uncapped
+230,Pulkit Narang,"30,00,000",Uncapped
+231,Saumy Pandey,"30,00,000",Uncapped
+232,Himanshu Singh,"30,00,000",Uncapped
+233,Tanmay Agarwal,"30,00,000",Uncapped
+234,Amandeep Khare,"30,00,000",Uncapped
+235,Ayush Mhatre,"30,00,000",Uncapped
+236,Salman Nizar,"30,00,000",Uncapped
+237,Sumeet Verma,"30,00,000",Uncapped
+238,Manan Vohra,"30,00,000",Uncapped
+239,Samarth Vyas,"30,00,000",Uncapped
+240,Emanjot Chahal,"30,00,000",Uncapped
+241,Mayank Rawat,"30,00,000",Uncapped
+242,Hritik Shokeen,"30,00,000",Uncapped
+243,Sonu Yadav,"30,00,000",Uncapped
+244,S. Rithik Easwaran,"30,00,000",Uncapped
+245,Anmol Malhotra,"30,00,000",Uncapped
+246,Pradosh Paul,"30,00,000",Uncapped
+247,Karteek Sharma,"30,00,000",Uncapped
+248,Akash Singh,"30,00,000",Uncapped
+249,Tejasvi Singh,"30,00,000",Uncapped
+250,Siddharth Yadav,"30,00,000",Uncapped
+251,Saurabh Dubey,"30,00,000",Uncapped
+252,Aaqib Khan,"30,00,000",Uncapped
+253,Ankit Singh Rajpoot,"30,00,000",Uncapped
+254,Divesh Sharma,"30,00,000",Uncapped
+255,Naman Tiwari,"30,00,000",Uncapped
+256,Kunal Singh Chibb,"30,00,000",Uncapped
+257,Yuvraj Chudasama,"30,00,000",Uncapped
+258,Deepak Devadiga,"30,00,000",Uncapped
+259,Ramesh Prasad,"30,00,000",Uncapped
+260,Shivam Shukla,"30,00,000",Uncapped
+261,Himanshu Singh,"30,00,000",Uncapped
+262,Tejpreet Singh,"30,00,000",Uncapped
+263,Musaif Ajaz,"30,00,000",Uncapped
+264,Agni Chopra,"30,00,000",Uncapped
+265,Abhimanyu Easwaran,"30,00,000",Uncapped
+266,Sudip Gharami,"30,00,000",Uncapped
+267,Shubham Khajuria,"30,00,000",Uncapped
+268,Akhil Rawat,"30,00,000",Uncapped
+269,Prateek Yadav,"30,00,000",Uncapped
+270,Abdul Bazith,"30,00,000",Uncapped
+271,K.C Cariappa,"30,00,000",Uncapped
+272,Aman Khan,"30,00,000",Uncapped
+273,Sumit Kumar,"30,00,000",Uncapped
+274,Hardik Raj,"30,00,000",Uncapped
+275,Harsh Tyagi,"30,00,000",Uncapped
+276,M. Ajnas,"30,00,000",Uncapped
+277,Unmukt Chand  ,"30,00,000",Uncapped
+278,Tejasvi Dahiya,"30,00,000",Uncapped
+279,Sumit Ghadigaonkar,"30,00,000",Uncapped
+280,Baba Indrajith,"30,00,000",Uncapped
+281,Muhammed  Khan,"30,00,000",Uncapped
+282,Bhagmender Lather,"30,00,000",Uncapped
+283,Baltej Dhanda,"30,00,000",Uncapped
+284,Ali Khan  ,"30,00,000",Uncapped
+285,Ravi Kumar,"30,00,000",Uncapped
+286,Vineet Panwar,"30,00,000",Uncapped
+287,Vidyadhar Patil,"30,00,000",Uncapped
+288,Aradhya Shukla,"30,00,000",Uncapped
+289,Kiran Chormale,"30,00,000",Uncapped
+290,Ashish Dahariya,"30,00,000",Uncapped
+291,Tushar Raheja,"30,00,000",Uncapped
+292,Sarthak Ranjan,"30,00,000",Uncapped
+293,Abhijeet Tomar,"30,00,000",Uncapped
+294,Krish Bhagat,"30,00,000",Uncapped
+295,Sohraab Dhaliwal,"30,00,000",Uncapped
+296,Harsh Dubey,"30,00,000",Uncapped
+297,Raj Limbani,"30,00,000",Uncapped
+298,Ninad Rathva,"30,00,000",Uncapped
+299,Vivrant Sharma,"30,00,000",Uncapped
+300,Shiva Singh,"30,00,000",Uncapped
+301,Sayed Irfan Aftab,"30,00,000",Uncapped
+302,Anirudh Chowdhary,"30,00,000",Uncapped
+303,Anshuman Hooda,"30,00,000",Uncapped
+304,Prashant Sai Painkra,"30,00,000",Uncapped
+305,Yeddala Reddy,"30,00,000",Uncapped
+306,Joshua Brown  ,"30,00,000",Uncapped
+307,Oliver Davies  ,"30,00,000",Uncapped
+308,Atharva Kale,"30,00,000",Uncapped
+309,Abhishek Nair,"30,00,000",Uncapped
+310,Vishwanath Pratap Singh,"30,00,000",Uncapped
+311,Nasir Lone,"30,00,000",Uncapped
+312,Brandon McMullen  ,"30,00,000",Uncapped
+313,S. Midhun,"30,00,000",Uncapped
+314,Abid Mushtaq,"30,00,000",Uncapped
+315,Mahesh Pithiya,"30,00,000",Uncapped
+316,Maramreddy Reddy,"30,00,000",Uncapped
+317,Atit Sheth,"30,00,000",Uncapped
+318,Jonty Sidhu,"30,00,000",Uncapped
+319,Mohit Avasthi,"30,00,000",Uncapped
+320,Faridoon Dawoodzai  ,"30,00,000",Uncapped
+321,Praful Hinge,"30,00,000",Uncapped
+322,Pankaj Jaswal,"30,00,000",Uncapped
+323,Vijay Kumar,"30,00,000",Uncapped
+324,Mujtaba Yousuf,"30,00,000",Uncapped
+325,Prayas Ray Barman,"30,00,000",Uncapped
+326,Jafar Jamal,"30,00,000",Uncapped
+327,Ayaz Khan,"30,00,000",Uncapped
+328,Kaushik Maity,"30,00,000",Uncapped
+329,Rituraj Sharma,"30,00,000",Uncapped
+330,Kartik Chadha,"30,00,000",Uncapped
+331,Writtick Chatterjee,"30,00,000",Uncapped
+332,Prerit Dutta,"30,00,000",Uncapped
+333,Rajneesh Gurbani,"30,00,000",Uncapped
+334,Shubhang Hegde,"30,00,000",Uncapped
+335,Saransh Jain,"30,00,000",Uncapped
+336,Ripal Patel,"30,00,000",Uncapped
+337,Akash Vashisht,"30,00,000",Uncapped
+338,Anirudh  Kanwar,"30,00,000",Uncapped
+339,Shubham Kapse,"30,00,000",Uncapped
+340,Atif Mushtaq,"30,00,000",Uncapped
+341,Dipesh Parwani,"30,00,000",Uncapped
+342,Manish Reddy,"30,00,000",Uncapped
+343,Chetan Sharma,"30,00,000",Uncapped
+344,Avinash Singh,"30,00,000",Uncapped
+345,Corbin Bosch  ,"30,00,000",Uncapped
+346,Mayank Gusain,"30,00,000",Uncapped
+347,Mukhtar Hussain,"30,00,000",Uncapped
+348,Girinath Reddy,"30,00,000",Uncapped
+349,Yajas Sharma,"30,00,000",Uncapped
+350,Sanjay Yadav,"30,00,000",Uncapped
+351,Vishal  Godara,"30,00,000",Uncapped
+352,Samarth Nagraj,"30,00,000",Uncapped
+353,Abhishek Saini,"30,00,000",Uncapped
+354,Dumindu Sewmina  ,"30,00,000",Uncapped
+355,Pradyuman Kumar Singh,"30,00,000",Uncapped
+356,Vasu Vats,"30,00,000",Uncapped
+357,Umang  Kumar,"30,00,000",Uncapped
+358,Mohamed Ali,"30,00,000",Uncapped
+359,Atharva Ankolekar,"30,00,000",Uncapped
+360,Vaisakh  Chandran,"30,00,000",Uncapped
+361,Auqib Dar,"30,00,000",Uncapped
+362,Rohit Rayudu,"30,00,000",Uncapped
+363,Uday Saharan ,"30,00,000",Uncapped
+364,Ayush Vartak,"30,00,000",Uncapped
+365,Baba Aparajith,"30,00,000",Uncapped
+366,Sumit Kumar Beniwal,"30,00,000",Uncapped
+367,Nishunk Birla,"30,00,000",Uncapped
+368,Digvijay Deshmukh,"30,00,000",Uncapped
+369,Lakshay Jain ,"30,00,000",Uncapped
+370,Duan Jansen  ,"30,00,000",Uncapped
+371,Kritagya Singh,"30,00,000",Uncapped
+372,P. Vignesh,"30,00,000",Uncapped
+373,Sabhay Chadha,"30,00,000",Uncapped
+374,Hemanth Kumar,"30,00,000",Uncapped
+375,Rohan Rana,"30,00,000",Uncapped
+376,Bharat Sharma,"30,00,000",Uncapped
+377,Pratham Singh,"30,00,000",Uncapped
+378,Ravi Yadav,"30,00,000",Uncapped
+379,Arjun Azad,"30,00,000",Uncapped
+380,Abhay Choudhary,"30,00,000",Uncapped
+381,Gaurav Gambhir,"30,00,000",Uncapped
+382,Shubham Garhwal,"30,00,000",Uncapped
+383,Tejasvi Jaiswal,"30,00,000",Uncapped
+384,Sairaj Patil,"30,00,000",Uncapped
+385,Kamal Tripathi,"30,00,000",Uncapped
+386,Prashant Chauhan,"30,00,000",Uncapped
+387,Yash Dabas,"30,00,000",Uncapped
+388,Dhruv Kaushik,"30,00,000",Uncapped
+389,Khrievitso Kense,"30,00,000",Uncapped
+390,Akash Parkar,"30,00,000",Uncapped
+391,Tripuresh  Singh,"30,00,000",Uncapped
+392,Vijay Yadav,"30,00,000",Uncapped
+393,Saurabh Netravalkar  ,"30,00,000",Uncapped
+394,Hardik Tamore,"30,00,000",Uncapped
